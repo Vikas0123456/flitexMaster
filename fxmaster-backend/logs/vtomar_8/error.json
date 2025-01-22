@@ -1,0 +1,660 @@
+[
+  {
+    "date": "01/16/2024, 5:23:19 PM",
+    "message": "Error converting data type nvarchar to date.",
+    "action": "filterSystemLog",
+    "moduleName": "systemLog",
+    "ipAddress": "192.168.1.153"
+  },
+  {
+    "date": "01/16/2024, 5:23:22 PM",
+    "message": "Error converting data type nvarchar to date.",
+    "action": "filterSystemLog",
+    "moduleName": "systemLog",
+    "ipAddress": "192.168.1.153"
+  },
+  {
+    "date": "01/16/2024, 5:23:38 PM",
+    "message": "Error converting data type nvarchar to date.",
+    "action": "filterSystemLog",
+    "moduleName": "systemLog",
+    "ipAddress": "192.168.1.153"
+  },
+  {
+    "date": "01/16/2024, 5:23:41 PM",
+    "message": "Error converting data type nvarchar to date.",
+    "action": "filterSystemLog",
+    "moduleName": "systemLog",
+    "ipAddress": "192.168.1.153"
+  },
+  {
+    "date": "01/16/2024, 5:23:41 PM",
+    "message": "Error converting data type nvarchar to date.",
+    "action": "filterSystemLog",
+    "moduleName": "systemLog",
+    "ipAddress": "192.168.1.153"
+  },
+  {
+    "date": "01/16/2024, 5:23:42 PM",
+    "message": "Error converting data type nvarchar to date.",
+    "action": "filterSystemLog",
+    "moduleName": "systemLog",
+    "ipAddress": "192.168.1.153"
+  },
+  {
+    "date": "01/16/2024, 5:23:43 PM",
+    "message": "Error converting data type nvarchar to date.",
+    "action": "filterSystemLog",
+    "moduleName": "systemLog",
+    "ipAddress": "192.168.1.153"
+  },
+  {
+    "date": "01/16/2024, 5:23:43 PM",
+    "message": "Error converting data type nvarchar to date.",
+    "action": "filterSystemLog",
+    "moduleName": "systemLog",
+    "ipAddress": "192.168.1.153"
+  },
+  {
+    "date": "01/16/2024, 5:23:43 PM",
+    "message": "Error converting data type nvarchar to date.",
+    "action": "filterSystemLog",
+    "moduleName": "systemLog",
+    "ipAddress": "192.168.1.153"
+  },
+  {
+    "date": "01/16/2024, 5:23:44 PM",
+    "message": "Error converting data type nvarchar to date.",
+    "action": "filterSystemLog",
+    "moduleName": "systemLog",
+    "ipAddress": "192.168.1.153"
+  },
+  {
+    "date": "01/16/2024, 5:23:46 PM",
+    "message": "Error converting data type nvarchar to date.",
+    "action": "filterSystemLog",
+    "moduleName": "systemLog",
+    "ipAddress": "192.168.1.153"
+  },
+  {
+    "date": "01/16/2024, 5:23:48 PM",
+    "message": "Error converting data type nvarchar to date.",
+    "action": "filterSystemLog",
+    "moduleName": "systemLog",
+    "ipAddress": "192.168.1.153"
+  },
+  {
+    "date": "01/16/2024, 5:23:48 PM",
+    "message": "Error converting data type nvarchar to date.",
+    "action": "filterSystemLog",
+    "moduleName": "systemLog",
+    "ipAddress": "192.168.1.153"
+  },
+  {
+    "date": "01/16/2024, 5:23:50 PM",
+    "message": "Error converting data type nvarchar to date.",
+    "action": "filterSystemLog",
+    "moduleName": "systemLog",
+    "ipAddress": "192.168.1.153"
+  },
+  {
+    "date": "01/16/2024, 5:25:18 PM",
+    "message": "Error converting data type nvarchar to date.",
+    "action": "filterSystemLog",
+    "moduleName": "systemLog",
+    "ipAddress": "192.168.1.153"
+  },
+  {
+    "date": "01/16/2024, 5:25:20 PM",
+    "message": "Error converting data type nvarchar to date.",
+    "action": "filterSystemLog",
+    "moduleName": "systemLog",
+    "ipAddress": "192.168.1.153"
+  },
+  {
+    "date": "01/16/2024, 5:25:22 PM",
+    "message": "Error converting data type nvarchar to date.",
+    "action": "filterSystemLog",
+    "moduleName": "systemLog",
+    "ipAddress": "192.168.1.153"
+  },
+  {
+    "date": "01/16/2024, 5:25:24 PM",
+    "message": "Error converting data type nvarchar to date.",
+    "action": "filterSystemLog",
+    "moduleName": "systemLog",
+    "ipAddress": "192.168.1.153"
+  },
+  {
+    "date": "01/16/2024, 5:25:24 PM",
+    "message": "Error converting data type nvarchar to date.",
+    "action": "filterSystemLog",
+    "moduleName": "systemLog",
+    "ipAddress": "192.168.1.153"
+  },
+  {
+    "date": "01/16/2024, 5:25:26 PM",
+    "message": "Error converting data type nvarchar to date.",
+    "action": "filterSystemLog",
+    "moduleName": "systemLog",
+    "ipAddress": "192.168.1.153"
+  },
+  {
+    "date": "01/16/2024, 5:26:43 PM",
+    "message": "Error converting data type nvarchar to date.",
+    "action": "filterSystemLog",
+    "moduleName": "systemLog",
+    "ipAddress": "192.168.1.153"
+  },
+  {
+    "date": "01/16/2024, 5:26:45 PM",
+    "message": "Error converting data type nvarchar to date.",
+    "action": "filterSystemLog",
+    "moduleName": "systemLog",
+    "ipAddress": "192.168.1.153"
+  },
+  {
+    "date": "01/16/2024, 5:26:45 PM",
+    "message": "Error converting data type nvarchar to date.",
+    "action": "filterSystemLog",
+    "moduleName": "systemLog",
+    "ipAddress": "192.168.1.153"
+  },
+  {
+    "date": "01/16/2024, 5:26:47 PM",
+    "message": "Error converting data type nvarchar to date.",
+    "action": "filterSystemLog",
+    "moduleName": "systemLog",
+    "ipAddress": "192.168.1.153"
+  },
+  {
+    "date": "01/16/2024, 5:26:49 PM",
+    "message": "Error converting data type nvarchar to date.",
+    "action": "filterSystemLog",
+    "moduleName": "systemLog",
+    "ipAddress": "192.168.1.153"
+  },
+  {
+    "date": "01/16/2024, 5:26:51 PM",
+    "message": "Error converting data type nvarchar to date.",
+    "action": "filterSystemLog",
+    "moduleName": "systemLog",
+    "ipAddress": "192.168.1.153"
+  },
+  {
+    "date": "01/16/2024, 5:26:51 PM",
+    "message": "Error converting data type nvarchar to date.",
+    "action": "filterSystemLog",
+    "moduleName": "systemLog",
+    "ipAddress": "192.168.1.153"
+  },
+  {
+    "date": "01/16/2024, 5:32:53 PM",
+    "message": "Error converting data type nvarchar to date.",
+    "action": "filterSystemLog",
+    "moduleName": "systemLog",
+    "ipAddress": "192.168.1.153"
+  },
+  {
+    "date": "01/16/2024, 5:32:56 PM",
+    "message": "Error converting data type nvarchar to date.",
+    "action": "filterSystemLog",
+    "moduleName": "systemLog",
+    "ipAddress": "192.168.1.153"
+  },
+  {
+    "date": "01/16/2024, 5:32:56 PM",
+    "message": "Error converting data type nvarchar to date.",
+    "action": "filterSystemLog",
+    "moduleName": "systemLog",
+    "ipAddress": "192.168.1.153"
+  },
+  {
+    "date": "01/16/2024, 5:32:58 PM",
+    "message": "Error converting data type nvarchar to date.",
+    "action": "filterSystemLog",
+    "moduleName": "systemLog",
+    "ipAddress": "192.168.1.153"
+  },
+  {
+    "date": "01/16/2024, 5:33:00 PM",
+    "message": "Error converting data type nvarchar to date.",
+    "action": "filterSystemLog",
+    "moduleName": "systemLog",
+    "ipAddress": "192.168.1.153"
+  },
+  {
+    "date": "01/16/2024, 5:33:03 PM",
+    "message": "Error converting data type nvarchar to date.",
+    "action": "filterSystemLog",
+    "moduleName": "systemLog",
+    "ipAddress": "192.168.1.153"
+  },
+  {
+    "date": "01/16/2024, 5:33:05 PM",
+    "message": "Error converting data type nvarchar to date.",
+    "action": "filterSystemLog",
+    "moduleName": "systemLog",
+    "ipAddress": "192.168.1.153"
+  },
+  {
+    "date": "01/16/2024, 5:33:09 PM",
+    "message": "Error converting data type nvarchar to date.",
+    "action": "filterSystemLog",
+    "moduleName": "systemLog",
+    "ipAddress": "192.168.1.153"
+  },
+  {
+    "date": "01/16/2024, 5:33:09 PM",
+    "message": "Error converting data type nvarchar to date.",
+    "action": "filterSystemLog",
+    "moduleName": "systemLog",
+    "ipAddress": "192.168.1.153"
+  },
+  {
+    "date": "01/16/2024, 5:33:11 PM",
+    "message": "Error converting data type nvarchar to date.",
+    "action": "filterSystemLog",
+    "moduleName": "systemLog",
+    "ipAddress": "192.168.1.153"
+  },
+  {
+    "date": "01/16/2024, 5:33:11 PM",
+    "message": "Error converting data type nvarchar to date.",
+    "action": "filterSystemLog",
+    "moduleName": "systemLog",
+    "ipAddress": "192.168.1.153"
+  },
+  {
+    "date": "01/16/2024, 5:33:15 PM",
+    "message": "Error converting data type nvarchar to date.",
+    "action": "filterSystemLog",
+    "moduleName": "systemLog",
+    "ipAddress": "192.168.1.153"
+  },
+  {
+    "date": "01/16/2024, 5:33:15 PM",
+    "message": "Error converting data type nvarchar to date.",
+    "action": "filterSystemLog",
+    "moduleName": "systemLog",
+    "ipAddress": "192.168.1.153"
+  },
+  {
+    "date": "01/16/2024, 5:33:17 PM",
+    "message": "Error converting data type nvarchar to date.",
+    "action": "filterSystemLog",
+    "moduleName": "systemLog",
+    "ipAddress": "192.168.1.153"
+  },
+  {
+    "date": "01/16/2024, 5:33:21 PM",
+    "message": "Error converting data type nvarchar to date.",
+    "action": "filterSystemLog",
+    "moduleName": "systemLog",
+    "ipAddress": "192.168.1.153"
+  },
+  {
+    "date": "01/16/2024, 5:33:23 PM",
+    "message": "Error converting data type nvarchar to date.",
+    "action": "filterSystemLog",
+    "moduleName": "systemLog",
+    "ipAddress": "192.168.1.153"
+  },
+  {
+    "date": "01/16/2024, 5:33:23 PM",
+    "message": "Error converting data type nvarchar to date.",
+    "action": "filterSystemLog",
+    "moduleName": "systemLog",
+    "ipAddress": "192.168.1.153"
+  },
+  {
+    "date": "01/16/2024, 5:33:25 PM",
+    "message": "Error converting data type nvarchar to date.",
+    "action": "filterSystemLog",
+    "moduleName": "systemLog",
+    "ipAddress": "192.168.1.153"
+  },
+  {
+    "date": "01/16/2024, 5:40:48 PM",
+    "message": "Error converting data type nvarchar to date.",
+    "action": "filterSystemLog",
+    "moduleName": "systemLog",
+    "ipAddress": "192.168.1.153"
+  },
+  {
+    "date": "01/16/2024, 5:40:50 PM",
+    "message": "Error converting data type nvarchar to date.",
+    "action": "filterSystemLog",
+    "moduleName": "systemLog",
+    "ipAddress": "192.168.1.153"
+  },
+  {
+    "date": "01/16/2024, 5:40:50 PM",
+    "message": "Error converting data type nvarchar to date.",
+    "action": "filterSystemLog",
+    "moduleName": "systemLog",
+    "ipAddress": "192.168.1.153"
+  },
+  {
+    "date": "01/16/2024, 5:40:50 PM",
+    "message": "Error converting data type nvarchar to date.",
+    "action": "filterSystemLog",
+    "moduleName": "systemLog",
+    "ipAddress": "192.168.1.153"
+  },
+  {
+    "date": "01/16/2024, 5:40:52 PM",
+    "message": "Error converting data type nvarchar to date.",
+    "action": "filterSystemLog",
+    "moduleName": "systemLog",
+    "ipAddress": "192.168.1.153"
+  },
+  {
+    "date": "01/16/2024, 5:40:54 PM",
+    "message": "Error converting data type nvarchar to date.",
+    "action": "filterSystemLog",
+    "moduleName": "systemLog",
+    "ipAddress": "192.168.1.153"
+  },
+  {
+    "date": "01/16/2024, 5:40:54 PM",
+    "message": "Error converting data type nvarchar to date.",
+    "action": "filterSystemLog",
+    "moduleName": "systemLog",
+    "ipAddress": "192.168.1.153"
+  },
+  {
+    "date": "01/16/2024, 5:40:56 PM",
+    "message": "Error converting data type nvarchar to date.",
+    "action": "filterSystemLog",
+    "moduleName": "systemLog",
+    "ipAddress": "192.168.1.153"
+  },
+  {
+    "date": "01/16/2024, 5:41:03 PM",
+    "message": "Error converting data type nvarchar to date.",
+    "action": "filterSystemLog",
+    "moduleName": "systemLog",
+    "ipAddress": "192.168.1.153"
+  },
+  {
+    "date": "01/16/2024, 5:41:04 PM",
+    "message": "Error converting data type nvarchar to date.",
+    "action": "filterSystemLog",
+    "moduleName": "systemLog",
+    "ipAddress": "192.168.1.153"
+  },
+  {
+    "date": "01/16/2024, 5:41:10 PM",
+    "message": "Error converting data type nvarchar to date.",
+    "action": "filterSystemLog",
+    "moduleName": "systemLog",
+    "ipAddress": "192.168.1.153"
+  },
+  {
+    "date": "01/16/2024, 5:41:10 PM",
+    "message": "Error converting data type nvarchar to date.",
+    "action": "filterSystemLog",
+    "moduleName": "systemLog",
+    "ipAddress": "192.168.1.153"
+  },
+  {
+    "date": "01/16/2024, 5:42:18 PM",
+    "message": "Error converting data type nvarchar to date.",
+    "action": "filterSystemLog",
+    "moduleName": "systemLog",
+    "ipAddress": "192.168.1.153"
+  },
+  {
+    "date": "01/16/2024, 5:42:52 PM",
+    "message": "Error converting data type nvarchar to date.",
+    "action": "filterSystemLog",
+    "moduleName": "systemLog",
+    "ipAddress": "192.168.1.153"
+  },
+  {
+    "date": "01/16/2024, 5:42:54 PM",
+    "message": "Error converting data type nvarchar to date.",
+    "action": "filterSystemLog",
+    "moduleName": "systemLog",
+    "ipAddress": "192.168.1.153"
+  },
+  {
+    "date": "01/16/2024, 5:42:56 PM",
+    "message": "Error converting data type nvarchar to date.",
+    "action": "filterSystemLog",
+    "moduleName": "systemLog",
+    "ipAddress": "192.168.1.153"
+  },
+  {
+    "date": "01/16/2024, 5:42:59 PM",
+    "message": "Error converting data type nvarchar to date.",
+    "action": "filterSystemLog",
+    "moduleName": "systemLog",
+    "ipAddress": "192.168.1.153"
+  },
+  {
+    "date": "01/16/2024, 5:42:59 PM",
+    "message": "Error converting data type nvarchar to date.",
+    "action": "filterSystemLog",
+    "moduleName": "systemLog",
+    "ipAddress": "192.168.1.153"
+  },
+  {
+    "date": "01/16/2024, 5:43:01 PM",
+    "message": "Error converting data type nvarchar to date.",
+    "action": "filterSystemLog",
+    "moduleName": "systemLog",
+    "ipAddress": "192.168.1.153"
+  },
+  {
+    "date": "01/16/2024, 5:43:38 PM",
+    "message": "Error converting data type nvarchar to date.",
+    "action": "filterSystemLog",
+    "moduleName": "systemLog",
+    "ipAddress": "192.168.1.153"
+  },
+  {
+    "date": "01/16/2024, 5:43:40 PM",
+    "message": "Error converting data type nvarchar to date.",
+    "action": "filterSystemLog",
+    "moduleName": "systemLog",
+    "ipAddress": "192.168.1.153"
+  },
+  {
+    "date": "01/16/2024, 5:43:40 PM",
+    "message": "Error converting data type nvarchar to date.",
+    "action": "filterSystemLog",
+    "moduleName": "systemLog",
+    "ipAddress": "192.168.1.153"
+  },
+  {
+    "date": "01/16/2024, 5:43:47 PM",
+    "message": "Error converting data type nvarchar to date.",
+    "action": "filterSystemLog",
+    "moduleName": "systemLog",
+    "ipAddress": "192.168.1.153"
+  },
+  {
+    "date": "01/16/2024, 5:44:59 PM",
+    "message": "Error converting data type nvarchar to date.",
+    "action": "filterSystemLog",
+    "moduleName": "systemLog",
+    "ipAddress": "192.168.1.153"
+  },
+  {
+    "date": "01/16/2024, 5:45:12 PM",
+    "message": "Error converting data type nvarchar to date.",
+    "action": "filterSystemLog",
+    "moduleName": "systemLog",
+    "ipAddress": "192.168.1.153"
+  },
+  {
+    "date": "01/16/2024, 5:52:45 PM",
+    "message": "Error converting data type nvarchar to date.",
+    "action": "filterSystemLog",
+    "moduleName": "systemLog",
+    "ipAddress": "192.168.1.153"
+  },
+  {
+    "date": "01/16/2024, 5:52:47 PM",
+    "message": "Error converting data type nvarchar to date.",
+    "action": "filterSystemLog",
+    "moduleName": "systemLog",
+    "ipAddress": "192.168.1.153"
+  },
+  {
+    "date": "01/16/2024, 5:52:48 PM",
+    "message": "Error converting data type nvarchar to date.",
+    "action": "filterSystemLog",
+    "moduleName": "systemLog",
+    "ipAddress": "192.168.1.153"
+  },
+  {
+    "date": "01/16/2024, 5:52:50 PM",
+    "message": "Error converting data type nvarchar to date.",
+    "action": "filterSystemLog",
+    "moduleName": "systemLog",
+    "ipAddress": "192.168.1.153"
+  },
+  {
+    "date": "01/16/2024, 5:53:06 PM",
+    "message": "Error converting data type nvarchar to date.",
+    "action": "filterSystemLog",
+    "moduleName": "systemLog",
+    "ipAddress": "192.168.1.153"
+  },
+  {
+    "date": "01/16/2024, 5:53:09 PM",
+    "message": "Error converting data type nvarchar to date.",
+    "action": "filterSystemLog",
+    "moduleName": "systemLog",
+    "ipAddress": "192.168.1.153"
+  },
+  {
+    "date": "01/16/2024, 5:53:09 PM",
+    "message": "Error converting data type nvarchar to date.",
+    "action": "filterSystemLog",
+    "moduleName": "systemLog",
+    "ipAddress": "192.168.1.153"
+  },
+  {
+    "date": "01/16/2024, 5:53:09 PM",
+    "message": "Error converting data type nvarchar to date.",
+    "action": "filterSystemLog",
+    "moduleName": "systemLog",
+    "ipAddress": "192.168.1.153"
+  },
+  {
+    "date": "01/16/2024, 6:14:18 PM",
+    "message": "Error converting data type nvarchar to date.",
+    "action": "filterSystemLog",
+    "moduleName": "systemLog",
+    "ipAddress": "192.168.1.153"
+  },
+  {
+    "date": "01/16/2024, 6:14:22 PM",
+    "message": "Error converting data type nvarchar to date.",
+    "action": "filterSystemLog",
+    "moduleName": "systemLog",
+    "ipAddress": "192.168.1.153"
+  },
+  {
+    "date": "01/16/2024, 6:17:16 PM",
+    "message": "Error converting data type nvarchar to date.",
+    "action": "filterSystemLog",
+    "moduleName": "systemLog",
+    "ipAddress": "192.168.1.153"
+  },
+  {
+    "date": "01/16/2024, 6:17:20 PM",
+    "message": "Error converting data type nvarchar to date.",
+    "action": "filterSystemLog",
+    "moduleName": "systemLog",
+    "ipAddress": "192.168.1.153"
+  },
+  {
+    "date": "01/16/2024, 7:24:48 PM",
+    "message": "Error converting data type nvarchar to date.",
+    "action": "filterSystemLog",
+    "moduleName": "systemLog",
+    "ipAddress": "192.168.1.153"
+  },
+  {
+    "date": "01/16/2024, 7:24:52 PM",
+    "message": "Error converting data type nvarchar to date.",
+    "action": "filterSystemLog",
+    "moduleName": "systemLog",
+    "ipAddress": "192.168.1.153"
+  },
+  {
+    "date": "01/16/2024, 7:27:00 PM",
+    "message": "Error converting data type nvarchar to date.",
+    "action": "filterSystemLog",
+    "moduleName": "systemLog",
+    "ipAddress": "192.168.1.153"
+  },
+  {
+    "date": "01/16/2024, 7:27:01 PM",
+    "message": "Error converting data type nvarchar to date.",
+    "action": "filterSystemLog",
+    "moduleName": "systemLog",
+    "ipAddress": "192.168.1.153"
+  },
+  {
+    "date": "01/16/2024, 7:33:08 PM",
+    "message": "Error converting data type nvarchar to date.",
+    "action": "filterSystemLog",
+    "moduleName": "systemLog",
+    "ipAddress": "192.168.1.153"
+  },
+  {
+    "date": "01/16/2024, 7:33:10 PM",
+    "message": "Error converting data type nvarchar to date.",
+    "action": "filterSystemLog",
+    "moduleName": "systemLog",
+    "ipAddress": "192.168.1.153"
+  },
+  {
+    "date": "01/16/2024, 7:46:43 PM",
+    "message": "Error converting data type nvarchar to date.",
+    "action": "filterSystemLog",
+    "moduleName": "systemLog",
+    "ipAddress": "192.168.1.153"
+  },
+  {
+    "date": "01/16/2024, 7:46:45 PM",
+    "message": "Error converting data type nvarchar to date.",
+    "action": "filterSystemLog",
+    "moduleName": "systemLog",
+    "ipAddress": "192.168.1.153"
+  },
+  {
+    "date": "01/16/2024, 7:54:29 PM",
+    "message": "Error converting data type nvarchar to date.",
+    "action": "filterSystemLog",
+    "moduleName": "systemLog",
+    "ipAddress": "192.168.1.153"
+  },
+  {
+    "date": "01/16/2024, 7:54:29 PM",
+    "message": "Error converting data type nvarchar to date.",
+    "action": "filterSystemLog",
+    "moduleName": "systemLog",
+    "ipAddress": "192.168.1.153"
+  },
+  {
+    "date": "01/16/2024, 7:54:35 PM",
+    "message": "Error converting data type nvarchar to date.",
+    "action": "filterSystemLog",
+    "moduleName": "systemLog",
+    "ipAddress": "192.168.1.153"
+  },
+  {
+    "date": "01/16/2024, 7:54:35 PM",
+    "message": "Error converting data type nvarchar to date.",
+    "action": "filterSystemLog",
+    "moduleName": "systemLog",
+    "ipAddress": "192.168.1.153"
+  }
+]

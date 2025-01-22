@@ -1,0 +1,793 @@
+[
+  {
+    "date": "01/30/2024, 1:59:56 PM",
+    "message": "Cannot read properties of undefined (reading 'Id')",
+    "action": "update",
+    "moduleName": "setting",
+    "ipAddress": "192.168.0.224"
+  },
+  {
+    "date": "01/30/2024, 2:00:02 PM",
+    "message": "Cannot read properties of undefined (reading 'Id')",
+    "action": "update",
+    "moduleName": "setting",
+    "ipAddress": "192.168.0.224"
+  },
+  {
+    "date": "01/30/2024, 2:00:45 PM",
+    "message": "Cannot read properties of undefined (reading 'Id')",
+    "action": "update",
+    "moduleName": "setting",
+    "ipAddress": "192.168.0.224"
+  },
+  {
+    "date": "01/30/2024, 2:05:57 PM",
+    "message": "Cannot read properties of undefined (reading 'totalRecords')",
+    "action": "dashboard",
+    "moduleName": "dashboard",
+    "ipAddress": "192.168.0.224"
+  },
+  {
+    "date": "01/30/2024, 2:05:57 PM",
+    "message": "Cannot read properties of undefined (reading 'totalRecords')",
+    "action": "dashboard",
+    "moduleName": "dashboard",
+    "ipAddress": "192.168.0.224"
+  },
+  {
+    "date": "01/30/2024, 2:06:18 PM",
+    "message": "Cannot read properties of undefined (reading 'totalRecords')",
+    "action": "dashboard",
+    "moduleName": "dashboard",
+    "ipAddress": "192.168.0.224"
+  },
+  {
+    "date": "01/30/2024, 2:06:18 PM",
+    "message": "Cannot read properties of undefined (reading 'totalRecords')",
+    "action": "dashboard",
+    "moduleName": "dashboard",
+    "ipAddress": "192.168.0.224"
+  },
+  {
+    "date": "01/30/2024, 2:09:24 PM",
+    "message": "Cannot read properties of undefined (reading 'totalRecords')",
+    "action": "dashboard",
+    "moduleName": "dashboard",
+    "ipAddress": "192.168.0.224"
+  },
+  {
+    "date": "01/30/2024, 2:09:24 PM",
+    "message": "Cannot read properties of undefined (reading 'totalRecords')",
+    "action": "dashboard",
+    "moduleName": "dashboard",
+    "ipAddress": "192.168.0.224"
+  },
+  {
+    "date": "01/30/2024, 2:13:54 PM",
+    "message": "Cannot read properties of undefined (reading 'totalRecords')",
+    "action": "dashboard",
+    "moduleName": "dashboard",
+    "ipAddress": "192.168.0.224"
+  },
+  {
+    "date": "01/30/2024, 2:13:54 PM",
+    "message": "Cannot read properties of undefined (reading 'totalRecords')",
+    "action": "dashboard",
+    "moduleName": "dashboard",
+    "ipAddress": "192.168.0.224"
+  },
+  {
+    "date": "01/30/2024, 2:47:55 PM",
+    "message": "Cannot read properties of undefined (reading 'totalRecords')",
+    "action": "dashboard",
+    "moduleName": "dashboard",
+    "ipAddress": "192.168.5.178"
+  },
+  {
+    "date": "01/30/2024, 2:47:55 PM",
+    "message": "Cannot read properties of undefined (reading 'totalRecords')",
+    "action": "dashboard",
+    "moduleName": "dashboard",
+    "ipAddress": "192.168.5.178"
+  },
+  {
+    "date": "01/30/2024, 3:37:45 PM",
+    "message": "Cannot read properties of undefined (reading 'totalRecords')",
+    "action": "dashboard",
+    "moduleName": "dashboard",
+    "ipAddress": "192.168.5.178"
+  },
+  {
+    "date": "01/30/2024, 3:37:45 PM",
+    "message": "Cannot read properties of undefined (reading 'totalRecords')",
+    "action": "dashboard",
+    "moduleName": "dashboard",
+    "ipAddress": "192.168.5.178"
+  },
+  {
+    "date": "01/30/2024, 3:38:06 PM",
+    "message": "Cannot read properties of undefined (reading 'totalRecords')",
+    "action": "dashboard",
+    "moduleName": "dashboard",
+    "ipAddress": "192.168.5.178"
+  },
+  {
+    "date": "01/30/2024, 3:38:06 PM",
+    "message": "Cannot read properties of undefined (reading 'totalRecords')",
+    "action": "dashboard",
+    "moduleName": "dashboard",
+    "ipAddress": "192.168.5.178"
+  },
+  {
+    "date": "02/01/2024, 6:09:01 PM",
+    "message": "Error converting data type nvarchar to date.",
+    "action": "filterSystemLog",
+    "moduleName": "systemLog",
+    "ipAddress": "192.168.0.224"
+  },
+  {
+    "date": "02/01/2024, 6:09:04 PM",
+    "message": "Error converting data type nvarchar to date.",
+    "action": "filterSystemLog",
+    "moduleName": "systemLog",
+    "ipAddress": "192.168.0.224"
+  },
+  {
+    "date": "02/01/2024, 6:09:04 PM",
+    "message": "Error converting data type nvarchar to date.",
+    "action": "filterSystemLog",
+    "moduleName": "systemLog",
+    "ipAddress": "192.168.0.224"
+  },
+  {
+    "date": "02/01/2024, 6:09:13 PM",
+    "message": "Error converting data type nvarchar to date.",
+    "action": "filterSystemLog",
+    "moduleName": "systemLog",
+    "ipAddress": "192.168.0.224"
+  },
+  {
+    "date": "02/01/2024, 6:09:13 PM",
+    "message": "Error converting data type nvarchar to date.",
+    "action": "filterSystemLog",
+    "moduleName": "systemLog",
+    "ipAddress": "192.168.0.224"
+  },
+  {
+    "date": "02/01/2024, 6:20:30 PM",
+    "message": "Named replacement \":fromDate\" has no entry in the replacement map.",
+    "action": "filterSystemLog",
+    "moduleName": "systemLog",
+    "ipAddress": "192.168.0.224"
+  },
+  {
+    "date": "02/01/2024, 6:20:30 PM",
+    "message": "Named replacement \":fromDate\" has no entry in the replacement map.",
+    "action": "filterSystemLog",
+    "moduleName": "systemLog",
+    "ipAddress": "192.168.0.224"
+  },
+  {
+    "date": "02/01/2024, 6:20:46 PM",
+    "message": "Named replacement \":fromDate\" has no entry in the replacement map.",
+    "action": "filterSystemLog",
+    "moduleName": "systemLog",
+    "ipAddress": "192.168.0.224"
+  },
+  {
+    "date": "02/01/2024, 6:20:46 PM",
+    "message": "Named replacement \":fromDate\" has no entry in the replacement map.",
+    "action": "filterSystemLog",
+    "moduleName": "systemLog",
+    "ipAddress": "192.168.0.224"
+  },
+  {
+    "date": "02/01/2024, 6:23:56 PM",
+    "message": "Error converting data type nvarchar to date.",
+    "action": "filterSystemLog",
+    "moduleName": "systemLog",
+    "ipAddress": "192.168.0.224"
+  },
+  {
+    "date": "02/01/2024, 6:23:56 PM",
+    "message": "Error converting data type nvarchar to date.",
+    "action": "filterSystemLog",
+    "moduleName": "systemLog",
+    "ipAddress": "192.168.0.224"
+  },
+  {
+    "date": "02/01/2024, 6:25:41 PM",
+    "message": "A TOP or FETCH clause contains an invalid value.",
+    "action": "filterSystemLog",
+    "moduleName": "systemLog",
+    "ipAddress": "192.168.0.224"
+  },
+  {
+    "date": "02/01/2024, 6:25:41 PM",
+    "message": "A TOP or FETCH clause contains an invalid value.",
+    "action": "filterSystemLog",
+    "moduleName": "systemLog",
+    "ipAddress": "192.168.0.224"
+  },
+  {
+    "date": "02/01/2024, 6:25:46 PM",
+    "message": "A TOP or FETCH clause contains an invalid value.",
+    "action": "filterSystemLog",
+    "moduleName": "systemLog",
+    "ipAddress": "192.168.0.224"
+  },
+  {
+    "date": "02/01/2024, 6:25:46 PM",
+    "message": "A TOP or FETCH clause contains an invalid value.",
+    "action": "filterSystemLog",
+    "moduleName": "systemLog",
+    "ipAddress": "192.168.0.224"
+  },
+  {
+    "date": "02/01/2024, 6:25:53 PM",
+    "message": "A TOP or FETCH clause contains an invalid value.",
+    "action": "filterSystemLog",
+    "moduleName": "systemLog",
+    "ipAddress": "192.168.0.224"
+  },
+  {
+    "date": "02/01/2024, 6:25:53 PM",
+    "message": "A TOP or FETCH clause contains an invalid value.",
+    "action": "filterSystemLog",
+    "moduleName": "systemLog",
+    "ipAddress": "192.168.0.224"
+  },
+  {
+    "date": "02/01/2024, 6:26:10 PM",
+    "message": "A TOP or FETCH clause contains an invalid value.",
+    "action": "filterSystemLog",
+    "moduleName": "systemLog",
+    "ipAddress": "192.168.0.224"
+  },
+  {
+    "date": "02/01/2024, 6:26:10 PM",
+    "message": "A TOP or FETCH clause contains an invalid value.",
+    "action": "filterSystemLog",
+    "moduleName": "systemLog",
+    "ipAddress": "192.168.0.224"
+  },
+  {
+    "date": "02/01/2024, 6:27:00 PM",
+    "message": "A TOP or FETCH clause contains an invalid value.",
+    "action": "filterSystemLog",
+    "moduleName": "systemLog",
+    "ipAddress": "192.168.0.224"
+  },
+  {
+    "date": "02/01/2024, 6:27:28 PM",
+    "message": "A TOP or FETCH clause contains an invalid value.",
+    "action": "filterSystemLog",
+    "moduleName": "systemLog",
+    "ipAddress": "192.168.0.224"
+  },
+  {
+    "date": "02/01/2024, 6:27:28 PM",
+    "message": "A TOP or FETCH clause contains an invalid value.",
+    "action": "filterSystemLog",
+    "moduleName": "systemLog",
+    "ipAddress": "192.168.0.224"
+  },
+  {
+    "date": "02/01/2024, 7:16:19 PM",
+    "message": "Error converting data type nvarchar to date.",
+    "action": "filterSystemLog",
+    "moduleName": "systemLog",
+    "ipAddress": "192.168.0.224"
+  },
+  {
+    "date": "02/01/2024, 7:16:51 PM",
+    "message": "Error converting data type nvarchar to date.",
+    "action": "filterSystemLog",
+    "moduleName": "systemLog",
+    "ipAddress": "192.168.0.224"
+  },
+  {
+    "date": "02/01/2024, 7:16:54 PM",
+    "message": "Error converting data type nvarchar to date.",
+    "action": "filterSystemLog",
+    "moduleName": "systemLog",
+    "ipAddress": "192.168.0.224"
+  },
+  {
+    "date": "02/01/2024, 7:19:41 PM",
+    "message": "Error converting data type nvarchar to date.",
+    "action": "filterSystemLog",
+    "moduleName": "systemLog",
+    "ipAddress": "192.168.0.224"
+  },
+  {
+    "date": "02/01/2024, 7:21:40 PM",
+    "message": "Error converting data type nvarchar to date.",
+    "action": "filterSystemLog",
+    "moduleName": "systemLog",
+    "ipAddress": "192.168.0.224"
+  },
+  {
+    "date": "02/01/2024, 7:22:51 PM",
+    "message": "Error converting data type nvarchar to date.",
+    "action": "filterSystemLog",
+    "moduleName": "systemLog",
+    "ipAddress": "192.168.0.224"
+  },
+  {
+    "date": "02/01/2024, 7:22:54 PM",
+    "message": "Error converting data type nvarchar to date.",
+    "action": "filterSystemLog",
+    "moduleName": "systemLog",
+    "ipAddress": "192.168.0.224"
+  },
+  {
+    "date": "02/01/2024, 7:22:59 PM",
+    "message": "Error converting data type nvarchar to date.",
+    "action": "filterSystemLog",
+    "moduleName": "systemLog",
+    "ipAddress": "192.168.0.224"
+  },
+  {
+    "date": "02/01/2024, 7:24:02 PM",
+    "message": "Error converting data type nvarchar to date.",
+    "action": "filterSystemLog",
+    "moduleName": "systemLog",
+    "ipAddress": "192.168.0.224"
+  },
+  {
+    "date": "02/01/2024, 7:25:39 PM",
+    "message": "Error converting data type nvarchar to date.",
+    "action": "filterSystemLog",
+    "moduleName": "systemLog",
+    "ipAddress": "192.168.0.224"
+  },
+  {
+    "date": "02/01/2024, 7:27:52 PM",
+    "message": "Error converting data type nvarchar to date.",
+    "action": "filterSystemLog",
+    "moduleName": "systemLog",
+    "ipAddress": "192.168.0.224"
+  },
+  {
+    "date": "02/01/2024, 7:44:36 PM",
+    "message": "Error converting data type nvarchar to date.",
+    "action": "filterSystemLog",
+    "moduleName": "systemLog",
+    "ipAddress": "192.168.0.224"
+  },
+  {
+    "date": "02/01/2024, 7:44:37 PM",
+    "message": "Error converting data type nvarchar to date.",
+    "action": "filterSystemLog",
+    "moduleName": "systemLog",
+    "ipAddress": "192.168.0.224"
+  },
+  {
+    "date": "02/01/2024, 7:46:06 PM",
+    "message": "Error converting data type nvarchar to date.",
+    "action": "filterSystemLog",
+    "moduleName": "systemLog",
+    "ipAddress": "192.168.0.224"
+  },
+  {
+    "date": "02/01/2024, 7:46:54 PM",
+    "message": "Error converting data type nvarchar to date.",
+    "action": "filterSystemLog",
+    "moduleName": "systemLog",
+    "ipAddress": "192.168.0.224"
+  },
+  {
+    "date": "02/01/2024, 7:46:57 PM",
+    "message": "Error converting data type nvarchar to date.",
+    "action": "filterSystemLog",
+    "moduleName": "systemLog",
+    "ipAddress": "192.168.0.224"
+  },
+  {
+    "date": "02/01/2024, 7:47:06 PM",
+    "message": "Error converting data type nvarchar to date.",
+    "action": "filterSystemLog",
+    "moduleName": "systemLog",
+    "ipAddress": "192.168.0.224"
+  },
+  {
+    "date": "02/01/2024, 7:49:07 PM",
+    "message": "Error converting data type nvarchar to date.",
+    "action": "filterSystemLog",
+    "moduleName": "systemLog",
+    "ipAddress": "192.168.0.224"
+  },
+  {
+    "date": "02/01/2024, 7:49:10 PM",
+    "message": "Error converting data type nvarchar to date.",
+    "action": "filterSystemLog",
+    "moduleName": "systemLog",
+    "ipAddress": "192.168.0.224"
+  },
+  {
+    "date": "02/01/2024, 7:49:17 PM",
+    "message": "Error converting data type nvarchar to date.",
+    "action": "filterSystemLog",
+    "moduleName": "systemLog",
+    "ipAddress": "192.168.0.224"
+  },
+  {
+    "date": "02/01/2024, 7:49:28 PM",
+    "message": "Error converting data type nvarchar to date.",
+    "action": "filterSystemLog",
+    "moduleName": "systemLog",
+    "ipAddress": "192.168.0.224"
+  },
+  {
+    "date": "02/01/2024, 7:49:31 PM",
+    "message": "Error converting data type nvarchar to date.",
+    "action": "filterSystemLog",
+    "moduleName": "systemLog",
+    "ipAddress": "192.168.0.224"
+  },
+  {
+    "date": "02/01/2024, 7:49:34 PM",
+    "message": "Error converting data type nvarchar to date.",
+    "action": "filterSystemLog",
+    "moduleName": "systemLog",
+    "ipAddress": "192.168.0.224"
+  },
+  {
+    "date": "02/01/2024, 7:49:50 PM",
+    "message": "Error converting data type nvarchar to date.",
+    "action": "filterSystemLog",
+    "moduleName": "systemLog",
+    "ipAddress": "192.168.0.224"
+  },
+  {
+    "date": "02/01/2024, 7:49:56 PM",
+    "message": "Error converting data type nvarchar to date.",
+    "action": "filterSystemLog",
+    "moduleName": "systemLog",
+    "ipAddress": "192.168.0.224"
+  },
+  {
+    "date": "02/01/2024, 7:49:59 PM",
+    "message": "Error converting data type nvarchar to date.",
+    "action": "filterSystemLog",
+    "moduleName": "systemLog",
+    "ipAddress": "192.168.0.224"
+  },
+  {
+    "date": "02/05/2024, 2:15:26 PM",
+    "message": "Must pass parameter number 9 and subsequent parameters as '@name = value'. After the form '@name = value' has been used, all subsequent parameters must be passed in the form '@name = value'.",
+    "action": "filterSystemLog",
+    "moduleName": "System Log",
+    "ipAddress": "192.168.0.224"
+  },
+  {
+    "date": "02/05/2024, 2:15:26 PM",
+    "message": "Must pass parameter number 9 and subsequent parameters as '@name = value'. After the form '@name = value' has been used, all subsequent parameters must be passed in the form '@name = value'.",
+    "action": "filterSystemLog",
+    "moduleName": "System Log",
+    "ipAddress": "192.168.0.224"
+  },
+  {
+    "date": "02/05/2024, 2:17:36 PM",
+    "message": "Must pass parameter number 9 and subsequent parameters as '@name = value'. After the form '@name = value' has been used, all subsequent parameters must be passed in the form '@name = value'.",
+    "action": "filterSystemLog",
+    "moduleName": "System Log",
+    "ipAddress": "192.168.0.224"
+  },
+  {
+    "date": "02/05/2024, 2:17:36 PM",
+    "message": "Must pass parameter number 9 and subsequent parameters as '@name = value'. After the form '@name = value' has been used, all subsequent parameters must be passed in the form '@name = value'.",
+    "action": "filterSystemLog",
+    "moduleName": "System Log",
+    "ipAddress": "192.168.0.224"
+  },
+  {
+    "date": "02/05/2024, 2:19:13 PM",
+    "message": "Conversion failed when converting the varchar value '1,2,3,4,5,7' to data type int.",
+    "action": "filterSystemLog",
+    "moduleName": "System Log",
+    "ipAddress": "192.168.0.224"
+  },
+  {
+    "date": "02/05/2024, 2:19:13 PM",
+    "message": "Conversion failed when converting the varchar value '1,2,3,4,5,7' to data type int.",
+    "action": "filterSystemLog",
+    "moduleName": "System Log",
+    "ipAddress": "192.168.0.224"
+  },
+  {
+    "date": "02/05/2024, 2:21:54 PM",
+    "message": "Must pass parameter number 9 and subsequent parameters as '@name = value'. After the form '@name = value' has been used, all subsequent parameters must be passed in the form '@name = value'.",
+    "action": "filterSystemLog",
+    "moduleName": "System Log",
+    "ipAddress": "192.168.0.224"
+  },
+  {
+    "date": "02/05/2024, 2:21:54 PM",
+    "message": "Must pass parameter number 9 and subsequent parameters as '@name = value'. After the form '@name = value' has been used, all subsequent parameters must be passed in the form '@name = value'.",
+    "action": "filterSystemLog",
+    "moduleName": "System Log",
+    "ipAddress": "192.168.0.224"
+  },
+  {
+    "date": "02/05/2024, 2:24:43 PM",
+    "message": "Incorrect syntax near '('.",
+    "action": "filterSystemLog",
+    "moduleName": "System Log",
+    "ipAddress": "192.168.0.224"
+  },
+  {
+    "date": "02/05/2024, 2:24:43 PM",
+    "message": "Incorrect syntax near '('.",
+    "action": "filterSystemLog",
+    "moduleName": "System Log",
+    "ipAddress": "192.168.0.224"
+  },
+  {
+    "date": "02/05/2024, 2:26:50 PM",
+    "message": "Conversion failed when converting the varchar value '1''2''3''4''5''7' to data type int.",
+    "action": "filterSystemLog",
+    "moduleName": "System Log",
+    "ipAddress": "192.168.0.224"
+  },
+  {
+    "date": "02/05/2024, 2:26:50 PM",
+    "message": "Conversion failed when converting the varchar value '1''2''3''4''5''7' to data type int.",
+    "action": "filterSystemLog",
+    "moduleName": "System Log",
+    "ipAddress": "192.168.0.224"
+  },
+  {
+    "date": "02/05/2024, 2:27:06 PM",
+    "message": "Conversion failed when converting the varchar value '1,2,3,4,5,7' to data type int.",
+    "action": "filterSystemLog",
+    "moduleName": "System Log",
+    "ipAddress": "192.168.0.224"
+  },
+  {
+    "date": "02/05/2024, 2:27:06 PM",
+    "message": "Conversion failed when converting the varchar value '1,2,3,4,5,7' to data type int.",
+    "action": "filterSystemLog",
+    "moduleName": "System Log",
+    "ipAddress": "192.168.0.224"
+  },
+  {
+    "date": "02/05/2024, 6:28:21 PM",
+    "message": "",
+    "action": "List",
+    "moduleName": "Aircraft",
+    "ipAddress": "192.168.0.224"
+  },
+  {
+    "date": "02/05/2024, 6:28:21 PM",
+    "message": "",
+    "action": "List",
+    "moduleName": "Aircraft",
+    "ipAddress": "192.168.0.224"
+  },
+  {
+    "date": "02/05/2024, 6:29:41 PM",
+    "message": "Invalid column name 'registration'.",
+    "action": "Update",
+    "moduleName": "Aircraft",
+    "ipAddress": "192.168.0.224"
+  },
+  {
+    "date": "02/05/2024, 6:30:45 PM",
+    "message": "Invalid column name 'registration'.",
+    "action": "Update",
+    "moduleName": "Aircraft",
+    "ipAddress": "192.168.0.224"
+  },
+  {
+    "date": "02/05/2024, 6:31:42 PM",
+    "message": "Invalid column name 'registration'.",
+    "action": "Update",
+    "moduleName": "Aircraft",
+    "ipAddress": "192.168.0.224"
+  },
+  {
+    "date": "02/05/2024, 6:32:09 PM",
+    "message": "Invalid column name 'registration'.",
+    "action": "Update",
+    "moduleName": "Aircraft",
+    "ipAddress": "192.168.0.224"
+  },
+  {
+    "date": "02/05/2024, 6:32:54 PM",
+    "message": "Invalid column name 'registration'.",
+    "action": "Update",
+    "moduleName": "Aircraft",
+    "ipAddress": "192.168.0.224"
+  },
+  {
+    "date": "02/05/2024, 6:34:56 PM",
+    "message": "Invalid column name 'registration'.",
+    "action": "Update",
+    "moduleName": "Aircraft",
+    "ipAddress": "192.168.0.224"
+  },
+  {
+    "date": "02/05/2024, 7:07:46 PM",
+    "message": "Invalid column name 'object Object'.",
+    "action": "List",
+    "moduleName": "Aircraft",
+    "ipAddress": "192.168.0.224"
+  },
+  {
+    "date": "02/05/2024, 7:07:46 PM",
+    "message": "Invalid column name 'object Object'.",
+    "action": "List",
+    "moduleName": "Aircraft",
+    "ipAddress": "192.168.0.224"
+  },
+  {
+    "date": "02/05/2024, 7:07:53 PM",
+    "message": "Invalid column name 'object Object'.",
+    "action": "List",
+    "moduleName": "Aircraft",
+    "ipAddress": "192.168.0.224"
+  },
+  {
+    "date": "02/05/2024, 7:07:53 PM",
+    "message": "Invalid column name 'object Object'.",
+    "action": "List",
+    "moduleName": "Aircraft",
+    "ipAddress": "192.168.0.224"
+  },
+  {
+    "date": "02/05/2024, 7:08:01 PM",
+    "message": "Invalid column name 'object Object'.",
+    "action": "List",
+    "moduleName": "Aircraft",
+    "ipAddress": "192.168.0.224"
+  },
+  {
+    "date": "02/05/2024, 7:08:01 PM",
+    "message": "Invalid column name 'object Object'.",
+    "action": "List",
+    "moduleName": "Aircraft",
+    "ipAddress": "192.168.0.224"
+  },
+  {
+    "date": "02/05/2024, 7:09:01 PM",
+    "message": "Incorrect syntax near the keyword 'WHERE'.",
+    "action": "List",
+    "moduleName": "Aircraft",
+    "ipAddress": "192.168.0.224"
+  },
+  {
+    "date": "02/05/2024, 7:09:01 PM",
+    "message": "Incorrect syntax near the keyword 'WHERE'.",
+    "action": "List",
+    "moduleName": "Aircraft",
+    "ipAddress": "192.168.0.224"
+  },
+  {
+    "date": "02/05/2024, 7:09:10 PM",
+    "message": "Incorrect syntax near the keyword 'WHERE'.",
+    "action": "List",
+    "moduleName": "Aircraft",
+    "ipAddress": "192.168.0.224"
+  },
+  {
+    "date": "02/05/2024, 7:09:10 PM",
+    "message": "Incorrect syntax near the keyword 'WHERE'.",
+    "action": "List",
+    "moduleName": "Aircraft",
+    "ipAddress": "192.168.0.224"
+  },
+  {
+    "date": "02/05/2024, 7:09:23 PM",
+    "message": "Incorrect syntax near the keyword 'WHERE'.",
+    "action": "List",
+    "moduleName": "Aircraft",
+    "ipAddress": "192.168.0.224"
+  },
+  {
+    "date": "02/05/2024, 7:09:23 PM",
+    "message": "Incorrect syntax near the keyword 'WHERE'.",
+    "action": "List",
+    "moduleName": "Aircraft",
+    "ipAddress": "192.168.0.224"
+  },
+  {
+    "date": "02/05/2024, 7:09:47 PM",
+    "message": "Incorrect syntax near 'LIMIT'.",
+    "action": "List",
+    "moduleName": "Aircraft",
+    "ipAddress": "192.168.0.224"
+  },
+  {
+    "date": "02/05/2024, 7:09:47 PM",
+    "message": "Incorrect syntax near 'LIMIT'.",
+    "action": "List",
+    "moduleName": "Aircraft",
+    "ipAddress": "192.168.0.224"
+  },
+  {
+    "date": "02/05/2024, 7:10:09 PM",
+    "message": "Incorrect syntax near 'LIMIT'.",
+    "action": "List",
+    "moduleName": "Aircraft",
+    "ipAddress": "192.168.0.224"
+  },
+  {
+    "date": "02/05/2024, 7:10:09 PM",
+    "message": "Incorrect syntax near 'LIMIT'.",
+    "action": "List",
+    "moduleName": "Aircraft",
+    "ipAddress": "192.168.0.224"
+  },
+  {
+    "date": "02/05/2024, 7:11:03 PM",
+    "message": "Incorrect syntax near 'LIMIT'.",
+    "action": "List",
+    "moduleName": "Aircraft",
+    "ipAddress": "192.168.0.224"
+  },
+  {
+    "date": "02/05/2024, 7:11:03 PM",
+    "message": "Incorrect syntax near 'LIMIT'.",
+    "action": "List",
+    "moduleName": "Aircraft",
+    "ipAddress": "192.168.0.224"
+  },
+  {
+    "date": "02/07/2024, 11:53:57 AM",
+    "message": "",
+    "action": "List",
+    "moduleName": "Unit Rate",
+    "ipAddress": "192.168.0.224"
+  },
+  {
+    "date": "02/07/2024, 11:54:02 AM",
+    "message": "",
+    "action": "List",
+    "moduleName": "Unit Rate",
+    "ipAddress": "192.168.0.224"
+  },
+  {
+    "date": "02/07/2024, 11:54:15 AM",
+    "message": "",
+    "action": "List",
+    "moduleName": "Unit Rate",
+    "ipAddress": "192.168.0.224"
+  },
+  {
+    "date": "02/07/2024, 11:55:12 AM",
+    "message": "",
+    "action": "List",
+    "moduleName": "Unit Rate",
+    "ipAddress": "192.168.0.224"
+  },
+  {
+    "date": "02/07/2024, 11:55:48 AM",
+    "message": "",
+    "action": "List",
+    "moduleName": "Unit Rate",
+    "ipAddress": "192.168.0.224"
+  },
+  {
+    "date": "02/07/2024, 11:55:48 AM",
+    "message": "",
+    "action": "List",
+    "moduleName": "Unit Rate",
+    "ipAddress": "192.168.0.224"
+  },
+  {
+    "date": "02/07/2024, 11:56:00 AM",
+    "message": "",
+    "action": "List",
+    "moduleName": "Unit Rate",
+    "ipAddress": "192.168.0.224"
+  },
+  {
+    "date": "02/07/2024, 11:56:00 AM",
+    "message": "",
+    "action": "List",
+    "moduleName": "Unit Rate",
+    "ipAddress": "192.168.0.224"
+  }
+]
